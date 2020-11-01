@@ -1,4 +1,4 @@
-package com.craig.factorymethodpattern.Business;
+package com.craig.factorymethodpattern.business;
 
 import com.craig.factorymethodpattern.entity.Plan;
 import com.craig.factorymethodpattern.factory.GetPlanFactory;
